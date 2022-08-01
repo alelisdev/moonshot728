@@ -11,36 +11,17 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 [![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">, I am a Senior Blockchain Web, Mobile Developer</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,I am a Senior Blockchain Web, Mobile Developer</h1>
 <h3 align="center">🌐 Blockchain, Web, Mobile Developer </h3>
 
-- 🌱 I’m currently learning **Web3**
+- 🌱 I’m currently working **Blockchain, Web3, Smart Contracts, NFT, React.js, Next.js **
 
-- 👨‍💻 All of my projects are available [here](https://itsrakesh.co/work/projects)
-
-- 📝 I regularly write articles on my [blog](https://blog.itsrakesh.co)
-
-- 💬 Ask me about **Web Development**
-
-- 📫 How to reach me **rakesh@itsrakesh.co**
+- 💬 Ask me about **Web, Mobile, Blockchain Development**
 
 ### 🤝 Connect with me:
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://itsrakesh.co)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/rakesh_at_tweet)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itsrakeshdotco)
-
----
-
-### 📜 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [The most efficient way to internationalize your web app](https://medium.com/@itsrakesh/the-most-efficient-way-to-internationalize-your-web-app-3d89d434afdf?source=rss-e09c62468ad2------2)
-- [Let’s build and deploy a full stack MERN web application](https://bootcamp.uxdesign.cc/lets-build-and-deploy-a-full-stack-mern-web-application-765ba138aee2?source=rss-e09c62468ad2------2)
-- [VSCode extensions every web developer should know](https://medium.com/codex/vscode-extensions-every-web-developer-should-know-b1aee0c90b90?source=rss-e09c62468ad2------2)
-- [How I built my Blog with NextJs, Chakra UI, and GraphCMS?](https://medium.com/codex/how-i-built-my-blog-with-nextjs-chakra-ui-and-graphcms-ae5a7d3a374b?source=rss-e09c62468ad2------2)
-- [What are dApps? How they are different from normal apps?](https://medium.com/coinmonks/what-are-dapps-how-they-are-different-from-normal-apps-9c10a38766b6?source=rss-e09c62468ad2------2)
-<!-- BLOG-POST-LIST:END -->
+[![email](topcoder728@gmail.com)
+[![skype](live:.cid.ef27112a9165b2e6)
 
 ---
 
