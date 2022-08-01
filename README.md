@@ -1,6 +1,6 @@
 [![](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)]
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">,I am a Senior Blockchain Web, Mobile Developer</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,I am a Senior Blockchain Web, Mobile Developer</h1>
 
 I am a top-notch full-stack engineer with several years of experience in computer science. 
 I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS.
@@ -19,13 +19,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 [![email] (topcoder728@gmail.com)
 [![skype] (live:.cid.ef27112a9165b2e6)
-
----
-
-### 📊 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=RakeshPotnuru&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RakeshPotnuru&theme=tokyonight&hide_border=true" alt="rakesh's github streak" width="48%" >
 
 ---
 
@@ -89,8 +82,3 @@ I am a natural problem solver, who has proven himself by successfully completing
 [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
 <!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)]
 [![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)] -->
-
----
-
-### 🔝 Most used languages
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakeshPotnuru&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
