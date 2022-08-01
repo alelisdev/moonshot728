@@ -79,6 +79,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 ### 💻 Workspace
 
-[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
-<!-- [![hp laptop](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=hp&logoColor=white)]
-[![acer monitor](https://img.shields.io/badge/acer%20monitor-83B81A?style=for-the-badge&logo=acer&logoColor=white)] -->
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/hp%20laptop-0096D6?style=for-the-badge&logo=lunux&logoColor=white)
+
