@@ -1,4 +1,6 @@
-### Hi there 👋
+[![](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
+
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10">,I am a Senior Blockchain Web, Mobile Developer</h1>
 
 I am a top-notch full-stack engineer with several years of experience in computer science. 
 I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS.
@@ -7,11 +9,6 @@ A talented, innovative and energetic engineer with awesome communication, analyt
 Passionate to meet user requirements expediently and accurately.
 I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments
 
-
-
-[![itsrakesh.co](https://user-images.githubusercontent.com/70439799/150669911-f4770983-6987-48b8-ad53-a5542231e894.gif)](https://itsrakesh.co)
-
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,I am a Senior Blockchain Web, Mobile Developer</h1>
 <h3 align="center">🌐 Blockchain, Web, Mobile Developer </h3>
 
 - 🌱 I’m currently working **Blockchain, Web3, Smart Contracts, NFT, React.js, Next.js **
@@ -20,8 +17,8 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 ### 🤝 Connect with me:
 
-[![email](topcoder728@gmail.com)
-[![skype](live:.cid.ef27112a9165b2e6)
+[![email] (topcoder728@gmail.com)
+[![skype] (live:.cid.ef27112a9165b2e6)
 
 ---
 
