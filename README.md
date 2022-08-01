@@ -78,4 +78,4 @@ I am a natural problem solver, who has proven himself by successfully completing
 ### 💻 Workspace
 
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0096D6?style=for-the-badge&logo=lunux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0096D6?style=for-the-badge&logo=linux&logoColor=white)
