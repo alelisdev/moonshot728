@@ -27,6 +27,8 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E)
+![php](https://img.shields.io/badge/php-323330?style=for-the-badge&logo=php&logoColor=blue)
+![C#](https://img.shields.io/badge/csharp-FFD43B?style=for-the-badge&logo=c#&logoColor=green)
 ![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,17 +47,23 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![nuxt.js](https://img.shields.io/badge/Nuxt.js-323330?style=for-the-badge&logo=nuxt.js&logoColor=green)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![laravel](https://img.shields.io/badge/laravel-323330?style=for-the-badge&logo=laravel&logoColor=red)
+![Codeigniter](https://img.shields.io/badge/codeigniter-323330?style=for-the-badge&logo=codeigniter&logoColor=red)
 ![django](https://img.shields.io/badge/django-323330?style=for-the-badge&logo=django&logoColor=green)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![.Net](https://img.shields.io/badge/.Net-323330?style=for-the-badge&logo=.net&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![tailwind](https://img.shields.io/badge/TailwindCss-323330?style=for-the-badge&logo=tailwindcss&logoColor=blue)
+
+
 ### 🗃️ Databases
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ### ⚒️ Tools
 
