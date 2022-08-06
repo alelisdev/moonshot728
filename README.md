@@ -39,14 +39,19 @@ I am a natural problem solver, who has proven himself by successfully completing
 ### 🧩 Frameworks/Libraries
 
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![next.js](https://img.shields.io/badge/next-323330?style=for-the-badge&logo=next.js&logoColor=black)
+![angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=Angular&logoColor=red)
+![vue.js](https://img.shields.io/badge/vue-323330?style=for-the-badge&logo=vue.js&logoColor=green)
+![nuxt.js](https://img.shields.io/badge/Nuxt.js-323330?style=for-the-badge&logo=nuxt.js&logoColor=green)
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![django](https://img.shields.io/badge/django-323330?style=for-the-badge&logo=django&logoColor=green)
 ![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+![tailwind](https://img.shields.io/badge/TailwindCss-323330?style=for-the-badge&logo=tailwindcss&logoColor=blue)
 ### 🗃️ Databases
 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
