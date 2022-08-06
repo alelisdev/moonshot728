@@ -1,4 +1,4 @@
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">,I am a Senior Blockchain Web, Mobile Developer</h1>
+<h1 align="center">Hi, I am a Senior Blockchain Web, Mobile Developer</h1>
 
 I am a top-notch full-stack engineer with several years of experience in computer science. 
 I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS.
