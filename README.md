@@ -16,9 +16,9 @@ I am a natural problem solver, who has proven himself by successfully completing
 ### 🤝 Connect with me:
 
 ![email](https://img.shields.io/badge/gmail-323330?style=for-the-badge&logo=gmail&logoColor=blue)
-![skype (live:.cid.ef27112a9165b2e6)](https://img.shields.io/badge/Skype-323330?style=for-the-badge&logo=skype&logoColor=blue)
+![skype](https://img.shields.io/badge/Skype-323330?style=for-the-badge&logo=skype&logoColor=blue) - (live:.cid.ef27112a9165b2e6)
 ![Telegram](https://img.shields.io/badge/telegram-323330?style=for-the-badge&logo=telegram&logoColor=green)
-![wathsapp](https://img.shields.io/badge/wathsapp-323330?style=for-the-badge&logo=wathsapp&logoColor=green)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-323330?style=for-the-badge&logo=WhatsApp&logoColor=green)
 
 ---
 
