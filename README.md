@@ -15,8 +15,8 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 ### 🤝 Connect with me:
 
-![email] (topcoder728@gmail.com)
-![skype] (live:.cid.ef27112a9165b2e6)
+![email](topcoder728@gmail.com)
+![skype](live:.cid.ef27112a9165b2e6)
 
 ---
 
