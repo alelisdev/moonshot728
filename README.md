@@ -15,8 +15,8 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 ### 🤝 Connect with me:
 
-![email](https://img.shields.io/badge/gmail-323330?style=for-the-badge&logo=gmail&logoColor=blue)
-![skype](https://img.shields.io/badge/Skype-323330?style=for-the-badge&logo=skype&logoColor=blue)
+![email ](https://img.shields.io/badge/gmail-323330?style=for-the-badge&logo=gmail&logoColor=blue)
+![skype (live:.cid.ef27112a9165b2e6)](https://img.shields.io/badge/Skype-323330?style=for-the-badge&logo=skype&logoColor=blue)
 
 ---
 
