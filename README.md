@@ -19,7 +19,7 @@ I am a natural problem solver, who has proven himself by successfully completing
     <a href="mailto:topcoder728@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
     </a>
-    <a href="https://join.skype.com/invite/">
+    <a href="https://join.skype.com/invite/HiriR44NBKm0">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
 </div>
