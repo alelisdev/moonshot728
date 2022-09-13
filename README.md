@@ -7,10 +7,9 @@ A talented, innovative and energetic engineer with awesome communication, analyt
 Passionate to meet user requirements expediently and accurately.
 I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments.
 
-<h3 align="center">🌐 Blockchain, Web Developer </h3>
+<h3 align="center">🌐  Web, Blockchain Developer </h3>
 
-- 🌱 I’m currently working ** Web, React.JS, Next.JS, Node.JS, Blockchain, Smart Contracts, Solidity, Rust, Solana, NFT, Cryptocurrency, Staking, Swap etc **
-- 💬 Lets Discuss with me about ** Web, Blockchain Development**
+- 🌱 Strong Skills: ** Web, React.JS, Next.JS, Node.JS, Blockchain, Smart Contracts, Solidity, Rust, Solana, NFT, Cryptocurrency, Staking, Swap etc **
 
 <h3 align="center">🤝 Connect with me </h3>
 <div align="center">
