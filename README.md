@@ -9,12 +9,10 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 <h3 align="center">🌐 Blockchain, Web Developer </h3>
 
-- 🌱 I’m currently working **Blockchain, Web3, Smart Contracts, NFT, React.js, Next.js **
-
+- 🌱 I’m currently working ** Web, Blockchain **
 - 💬 Ask me about **Web, Mobile, Blockchain Development**
 
 ### 🤝 Connect with me:
-
 <div align="center">
     <a href="mailto:topcoder728@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
@@ -25,9 +23,7 @@ I am a natural problem solver, who has proven himself by successfully completing
 </div>
 
 ---
-
 ### 🧑‍💻 Languages
-
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-323330?style=for-the-badge&logo=solidity&logoColor=F7DF1E)
@@ -43,7 +39,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### 🧩 Frameworks/Libraries
-
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![next.js](https://img.shields.io/badge/next-323330?style=for-the-badge&logo=next.js&logoColor=black)
 ![angular](https://img.shields.io/badge/Angular-323330?style=for-the-badge&logo=Angular&logoColor=red)
@@ -64,7 +59,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 
 ### 🗃️ Databases
-
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![mysql](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
@@ -85,7 +79,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
 
 ### 🧠 IDEs/Text Editors I use
-
 ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webstorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
 ![pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
@@ -95,6 +88,5 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
 
 ### 💻 Workspace
-
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-0096D6?style=for-the-badge&logo=linux&logoColor=white)
