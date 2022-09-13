@@ -9,8 +9,8 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 <h3 align="center">🌐 Blockchain, Web Developer </h3>
 
-- 🌱 I’m currently working ** Web, Blockchain **
-- 💬 Ask me about **Web, Mobile, Blockchain Development**
+- 🌱 I’m currently working ** Web, React.JS, Next.JS, Node.JS, Blockchain, Smart Contracts, Solidity, Rust, Solana, NFT, Cryptocurrency, Staking, Swap etc **
+- 💬 Lets Discuss with me about ** Web, Blockchain Development**
 
 <h3 align="center">🤝 Connect with me </h3>
 <div align="center">
@@ -64,7 +64,6 @@ I am a natural problem solver, who has proven himself by successfully completing
 ![mysql](https://img.shields.io/badge/postgresql-323330?style=for-the-badge&logo=postgresql&logoColor=blue)
 
 ### ⚒️ Tools
-
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
