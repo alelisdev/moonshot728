@@ -9,7 +9,7 @@ I am a natural problem solver, who has proven himself by successfully completing
 
 <h3 align="center">🌐  Web, Blockchain Developer </h3>
 
-- 🌱 Strong Skills: ** Web, React.JS, Next.JS, Node.JS, Blockchain, Smart Contracts, Solidity, Rust, Solana, NFT, Cryptocurrency, Staking, Swap etc **
+<h5 align="center">Strong Skills:Web, React.JS, Next.JS, Node.JS, Blockchain, Smart Contracts, Solidity, Rust, Solana, NFT, Cryptocurrency, Staking, Swap</h5>
 
 <h3 align="center">🤝 Connect with me </h3>
 <div align="center">
