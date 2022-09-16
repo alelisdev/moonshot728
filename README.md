@@ -7,7 +7,7 @@ A talented, innovative and energetic engineer with awesome communication, analyt
 Passionate to meet user requirements expediently and accurately.
 I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments.</4>
 
-<h2 align="center">🤝 Connect with me </h2>
+<h2 align="center">🤝 Intouch with me </h2>
 <div align="center">
     <a href="mailto:topcoder728@gmail.com">
         <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
