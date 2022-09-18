@@ -1,6 +1,6 @@
 <h1 align="center">Hello</h1>
 
-<h3 align="justify">I am a top-notch full-stack engineer with several years of experience in computer science. 
+<h3 align="justify">I am a top-notch full-stack engineer with several years of experience in computer science.  <br/>
 I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS.
 I am also proficient in backend frameworks with Node.js, Nest.js, Django, Ruby on Rails, Laravel, GraphQL, NoSQL/SQL databases with an in-depth knowledge of the best practices for modern Web applications and blockchain dApps.
 A talented, innovative and energetic engineer with awesome communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills and also be always seeking cutting-edge blockchain technology with Smart Contract, Solidity, Rust, Solana, Web3.JS, NFT (ERC721, ERC1155), NFT Game, NFT Marketplace, Cryptocurrency, Mint, Stake, Swap, Bot.
