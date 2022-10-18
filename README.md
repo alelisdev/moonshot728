@@ -15,4 +15,10 @@ I am a natural problem solver, who has proven himself by successfully completing
     <a href="https://join.skype.com/invite/HiriR44NBKm0">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
+    <a href="https://t.me/kungfuupanda9">
+        <img src='https://img.icons8.com/color/344/telegram.png' height="40">
+    </a>
+    <a href="https://discord.gg/PUENfGz5">
+        <img src='https://img.icons8.com/color/344/discord.png' height="40">
+    </a>
 </div>
