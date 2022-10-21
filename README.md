@@ -1,4 +1,4 @@
-<h3 align="center">Hello, How are you?</h3>
+<h3 align="center">👋 Hello, How are you?</h3>
 
 I am a top-notch full-stack engineer with several years of experience in software engineering.  <br/>
 I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Vue.js, Nuxt.js, AngularJS.<br/>
