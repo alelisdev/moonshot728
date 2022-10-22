@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hello, How are you?</h3>
 
 I am a top-notch full-stack engineer with several years of experience in software engineering.  <br/>
-I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Svelte Vue.js, Nuxt.js, AngularJS.<br/>
+I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Svelte , Vue.js, Nuxt.js, AngularJS.<br/>
 I am also proficient in backend frameworks with Node.js/Nest.js, Python/Django/Flask/FastAPI, PHP/Laravel, GraphQL, Hasura, Postman, Restful API and NoSQL/SQL databases with an in-depth knowledge of the best practices for modern Web applications.<br/>
 A talented, innovative and energetic engineer with awesome communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills and also be always seeking cutting-edge blockchain technology with Ethereum, Solana, Bitcoin, Smart Contract, Solidity, Rust, Web3.JS, Wagmi.sh, NFT (ERC721, ERC1155..), NFT (Game, Marketplace, Mint, Staking), Cryptocurrency(Mint, Staking, Swap, Bots), Unity 3D.<br/>
 Passionate to meet user requirements expediently and accurately.<br/>
