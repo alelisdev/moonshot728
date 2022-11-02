@@ -15,7 +15,7 @@ I am a natural problem solver, who has proven himself by successfully completing
     <a href="https://join.skype.com/invite/HiriR44NBKm0">
         <img src='https://img.icons8.com/color/344/skype.png' height="40">
     </a>
-    <a href="https://t.me/kungfuupanda9">
+    <a href="https://t.me/blockchainpanda">
         <img src='https://img.icons8.com/2266EE/telegram' height="40">
     </a>
     <a href="https://discord.gg/PUENfGz5">
