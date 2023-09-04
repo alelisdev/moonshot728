@@ -77,9 +77,9 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="mailto:topcoder728@gmail.com">
-        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="40">
+        <img src='https://img.icons8.com/fluency/344/gmail-new.png' height="30">
     </a>
-    <a href="https://join.skype.com/invite/vqB8jOhlGefg">
-        <img src='https://img.icons8.com/color/344/skype.png' height="40">
+    <a href="https://join.skype.com/invite/CgpMkGy4C8Ch">
+        <img src='https://img.icons8.com/color/344/skype.png' height="30">
     </a>
 </div>
