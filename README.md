@@ -1,12 +1,7 @@
 ### Hi there 👋
 
-I am a top-notch full-stack engineer with several years of experience in software engineering.  <br/>
-I specializes in Javascript and Typescript its frameworks and libraries providing creative, sophisticated, effective, yet clean solutions using React.js, Next.js, Svelte , Vue.js, Nuxt.js, AngularJS.<br/>
-I am also proficient in backend frameworks with Node.js/Nest.js, Python/Django/Flask/FastAPI, Java/Java Spring, C#/Asp.Net, PHP/Laravel, GraphQL, Hasura, Postman, Restful API and NoSQL/SQL databases with an in-depth knowledge of the best practices for modern Web applications.<br/>
-A talented, innovative and energetic engineer with awesome communication, analytical, collaborating, mentoring, problem solving and troubleshooting skills and also be always seeking cutting-edge blockchain technology with Ethereum, Solana, Bitcoin, Smart Contract, Solidity, Rust, Web3.JS, Wagmi.sh, NFT (ERC721, ERC1155..), NFT (Game, Marketplace, Mint, Staking), Cryptocurrency(Mint, Staking, Swap, Bots), Unity 3D.<br/>
-Passionate to meet user requirements expediently and accurately.<br/>
 I am a natural problem solver, who has proven himself by successfully completing lots of projects for IT consultancies, software houses, web development agencies, and IT departments.
-With over 10 years of experience in software engineering, I am a seasoned professional with expertise in designing, developing, and maintaining software systems.
+With over 8+ years of experience in software engineering, I am a seasoned professional with expertise in designing, developing, and maintaining software systems.
 
 # Thanks for visiting my Git! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 <a target="blank" href="https://profile-counter.glitch.me/comwonderfula/count.svg"><p align="center">❤ Visitor Counts ❤<br><br> <img src="https://profile-counter.glitch.me/comwonderfula/count.svg" /></a>
@@ -21,12 +16,13 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 
 
 🔭 Always Be Learning New Technologies for a Competitive Edge
+🤔 Web App Development (React.js / Angular / Vue 3 / PIXI.js / Three.js)
 
 🤔 Mobile App Development (Swift / Kotlin / Flutter / React Native)
 
-🤔 Web App Development (React.js / Angular / Vue 3)
+🤔 Backend Development (Node.js / Python / Django / Flask / Java Spring / Rust)
 
-🤔 Backend Development (Node.js)
+🤔 Blockchain dApp Development (Ethereum / Smart Contracts / Solidity / Rust / Solana / Web3.js / NFT / NFT Art / )
 
 <br />
 
@@ -41,7 +37,9 @@ With over 10 years of experience in software engineering, I am a seasoned profes
 <img alt="Vue" src="https://img.shields.io/badge/-VueJS-45b8d8?style=flat-square&logo=vue.js&logoColor=white" />
 <img alt="Web3.js" src="https://img.shields.io/badge/-Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white" />
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
-<img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=python&logoColor=white" />
+<img alt="rust" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=rust&logoColor=white" />
+<img alt="javaspring" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=javaspring&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
