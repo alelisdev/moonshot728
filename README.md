@@ -16,6 +16,7 @@ With over 8+ years of experience in software engineering, I am a seasoned profes
 
 
 🔭 Always Be Learning New Technologies for a Competitive Edge
+
 🤔 Web App Development (React.js / Angular / Vue 3 / PIXI.js / Three.js)
 
 🤔 Mobile App Development (Swift / Kotlin / Flutter / React Native)
@@ -39,7 +40,6 @@ With over 8+ years of experience in software engineering, I am a seasoned profes
 <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=python&logoColor=white" />
 <img alt="rust" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=rust&logoColor=white" />
-<img alt="javaspring" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=javaspring&logoColor=white" />
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
